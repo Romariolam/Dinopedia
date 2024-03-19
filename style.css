@@ -1,0 +1,45 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300..700&display=swap');
+
+.encabezado{
+    position: fixed;
+    background-color: rgb(233, 255, 231);
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    z-index: 2;
+    font-family: "Jura", sans-serif;
+}
+.logo{
+    width: 100px;
+    position: absolute;
+    right: 50%;
+}
+.titulo{
+    font-style:italic;
+    font-family: "Jura", sans-serif;
+
+
+}
+.introduction{
+    margin: 100px 20px 50px 20px;
+    background-color: aliceblue;
+    padding: 20px;
+    font-family: "Jura", sans-serif;
+}
+.dino-image{
+    position:relative;
+    left:25%;
+    top:60px;
+    width: 200px;
+    z-index: 1;
+}
+.dino-text{
+    border: 2px dashed steelblue;
+    margin: 20px 20px 30px;
+    padding: 10px;
+    background-color: rgba(177, 125, 125, 0.144);
+    font-family: "Jura", sans-serif;
+
+}
