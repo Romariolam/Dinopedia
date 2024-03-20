@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Jura:wght@300..700&display=swap');
 
 .encabezado{
-    position: fixed;
     background-color: rgb(233, 255, 231);
     top: 0%;
     left: 0%;
@@ -29,7 +28,6 @@
     font-family: "Jura", sans-serif;
 }
 .dino-image{
-    position:relative;
     left:25%;
     top:60px;
     width: 200px;
@@ -41,5 +39,4 @@
     padding: 10px;
     background-color: rgba(177, 125, 125, 0.144);
     font-family: "Jura", sans-serif;
-
 }
