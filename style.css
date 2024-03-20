@@ -13,7 +13,6 @@
 }
 .logo{
     width: 100px;
-    position: absolute;
     right: 50%;
 }
 .titulo{
@@ -29,7 +28,6 @@
     font-family: "Jura", sans-serif;
 }
 .dino-image{
-    position:relative;
     left:25%;
     top:60px;
     width: 200px;
